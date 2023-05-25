@@ -13,12 +13,12 @@ As an enthusiastic and passionate individual about new technologies and web deve
 - Portfolio - [Iván García Yebra](https://yebraidev.vercel.app/)
 
 ## ⚡ My Projects
-[The Movie Bulletin](https://the-movie-bulletin.vercel.app/)
-[Google Translate Clone](https://yebrai.github.io/google-translate-chatgpt/)
-[Retroscript](https://yebrai.github.io/retroscript/)
-[Taste it](https://taste-it-app.netlify.app/)
-[Our Home](https://ourhome.cyclic.app/)
-[Infectnation](https://yebrai.github.io/Infectnation/)
+- [The Movie Bulletin](https://the-movie-bulletin.vercel.app/)
+- [Google Translate Clone](https://yebrai.github.io/google-translate-chatgpt/)
+- [Retroscript](https://yebrai.github.io/retroscript/)
+- [Taste it](https://taste-it-app.netlify.app/)
+- [Our Home](https://ourhome.cyclic.app/)
+- [Infectnation](https://yebrai.github.io/Infectnation/)
 
 
 <!--
