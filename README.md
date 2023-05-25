@@ -1,8 +1,16 @@
-### Hi there 👋
+###👋 Hi, my name is Iván, a Frontend Web Developer. Welcome to my GitHub profile!
 
+As an enthusiastic and passionate individual about new technologies and web development, I actively dedicate my free time to continuous learning. My goal is to develop functional, intuitive, and visually striking web applications, constantly seeking innovative solutions to technical challenges.
+
+##🚀 Technologies 
+
+- Front-end: JavaScript, TypeScript, React, Next.js, HTML, CSS.
+- Back-end: Node.js, Express.
+- Database: MongoDB, MySql
+
+## 📫 Contact Me
+- LinkedIn - [Iván García Yebra](https://www.linkedin.com/in/ivangarciayebra/)
 <!--
-**yebrai/yebrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
