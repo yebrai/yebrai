@@ -1,8 +1,8 @@
-###👋 Hi, my name is Iván, a Frontend Web Developer. Welcome to my GitHub profile!
+### 👋 Hi, my name is Iván, a Frontend Web Developer. Welcome to my GitHub profile!
 
 As an enthusiastic and passionate individual about new technologies and web development, I actively dedicate my free time to continuous learning. My goal is to develop functional, intuitive, and visually striking web applications, constantly seeking innovative solutions to technical challenges.
 
-##🚀 Technologies 
+## 🚀 Technologies 
 
 - Front-end: JavaScript, TypeScript, React, Next.js, HTML, CSS.
 - Back-end: Node.js, Express.
