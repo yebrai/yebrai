@@ -9,8 +9,8 @@ As an enthusiastic and passionate individual about new technologies and web deve
 - Database: MongoDB.
 
 ## 📫 Contact Me
-- LinkedIn - [Iván García Yebra](https://www.linkedin.com/in/ivangarciayebra/)
-- Portfolio - [Iván García Yebra](https://yebraidev.vercel.app/)
+- [My linkedin Profile](https://www.linkedin.com/in/ivangarciayebra/)
+- [My portfolio](https://yebraidev.vercel.app/)
 
 ## ⚡ My Projects
 - [The Movie Bulletin](https://the-movie-bulletin.vercel.app/)
