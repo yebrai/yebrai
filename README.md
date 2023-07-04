@@ -4,9 +4,8 @@ As an enthusiastic and passionate individual about new technologies and web deve
 
 ## 🚀 Technologies 
 
-- Front-end: JavaScript, TypeScript, React, Next.js, HTML, CSS.
-- Back-end: Node.js, Express.
-- Database: MongoDB.
+- Front-end: JavaScript, PHP, CakePHP, React, Next.js, Node.js, Express.
+- Database: MongoDB and MySql.
 
 ## 📫 Contact Me
 - [My linkedin Profile](https://www.linkedin.com/in/ivangarciayebra/)
