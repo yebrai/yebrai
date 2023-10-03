@@ -9,7 +9,6 @@ As an enthusiastic and passionate individual about new technologies and web deve
 
 ## 📫 Contact Me
 - [My linkedin Profile](https://www.linkedin.com/in/ivangarciayebra/)
-- [My portfolio](https://yebraidev.vercel.app/)
 
 ## ⚡ My Projects
 - [Social Butterfly](https://social-app-demo-peach.vercel.app/)
