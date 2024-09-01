@@ -18,5 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, blade, java, handlebars
           plugin_traffic: yes
