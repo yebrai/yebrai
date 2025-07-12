@@ -1,15 +1,23 @@
 ### Backend Engineer | Building Scalable & Maintainable Systems
 
-I'm a backend engineer focused on building clean, efficient, and future-proof systems.  
-I apply modern engineering practices and architectural principles — like Clean Architecture — to deliver scalable, maintainable solutions that drive real impact.
+👋 Hi, I’m Iván — a Software Engineer with 3+ years of experience building and collaborating on systems that scale alongside the business.  
+I specialize in distributed architectures including Microservices, Event-Driven Design (EDA), DDD, and Hexagonal Architecture.
 
-#### 🔧 Core Tech & Concepts
+#### What I bring to the table:
 
-- **Go**
-- **Google Cloud Platform (GCP)**
-- **Docker & Kubernetes**
-- **Microservices & Event-Driven Architecture**
-- **PostgreSQL / NoSQL**
+- Designing scalable, sustainable systems  
+- Expertise in high-concurrency services  
+- Product-oriented mindset delivering business-driven solutions  
+- Leadership and team management experience  
+- Continuous improvement mindset, technical and personal
+
+#### Core Technologies & Concepts
+
+- **Go**  
+- **Google Cloud Platform (GCP)**  
+- **Docker & Kubernetes**  
+- **Microservices & Event-Driven Architecture**  
+- **PostgreSQL / NoSQL**  
 - **RESTful APIs / gRPC**
 
 ![Metrics](/github-metrics.svg)
