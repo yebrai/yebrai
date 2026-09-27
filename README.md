@@ -13,23 +13,20 @@
 <br />
 <br />
 
-**Thanks for stopping by — glad to have you here!**  
-I'm Iván, a passionate Software Architect from Seville.
+**Thanks for stopping by glad to have you here!**
+I'm Iván, a Solutions Architect from Seville
 
-- 🔭 Currently working at [K-Lagan](https://k-lagan.com).
-- 👥 Organizer of [Golang Sevilla](https://github.com/Golang-Sevilla).
-- 📫 Reach me at [ivanyebra@yebraidev.es](mailto:ivanyebra@yebraidev.es) or on [LinkedIn](https://www.linkedin.com/in/ivangarciayebra).
+I mainly use this account for **technical POCs, experiments, learning, and exploring new technologies/tools**
+
+* 🔭 Currently working at [K-Lagan](https://k-lagan.com).
+* 👥 Organizer of [Golang Sevilla](https://github.com/Golang-Sevilla), supporting different tech communities in Seville around AI, software development, cloud, and more.
+* 📫 Reach me at [ivanyebra@yebraidev.es](mailto:ivanyebra@yebraidev.es) or on [LinkedIn](https://www.linkedin.com/in/ivangarciayebra)
 
 ---
 
 ### 🧠 Languages and Tools
 
-<code><img height="24" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" /></code>
-<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" /></code>
-<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /></code>
-<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></code>
-<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></code>
-<code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
+<code><img height="24" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" /></code> <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" /></code> <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /></code> <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></code> <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></code> <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
 
 ---
 
