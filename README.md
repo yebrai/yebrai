@@ -16,7 +16,7 @@
 **Thanks for stopping by — glad to have you here!**  
 I'm Iván, a passionate Software Architect from Seville.
 
-- 🔭 Currently working at [Knowmad Mood](https://www.knowmadmood.com).
+- 🔭 Currently working at [K-Lagan](https://k-lagan.com).
 - 👥 Organizer of [Golang Sevilla](https://github.com/Golang-Sevilla).
 - 📫 Reach me at [ivanyebra@yebraidev.es](mailto:ivanyebra@yebraidev.es) or on [LinkedIn](https://www.linkedin.com/in/ivangarciayebra).
 
